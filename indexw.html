@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--<meta charset="utf-8">-->
+    <link rel="stylesheet" href="./style.css"/>
+<title>TODAY'S WEATHER</title>
+</head>
+<body>
+
+<div class="location">
+    <h1 class="location-timezone">Timezone</h1>
+    <p>Icon</p>
+</div> 
+<div class="temperature">
+    <div class="degree-section">
+        <h2 class="temperature-degree">27</h2>
+        <span>Fahrenheit</span>
+    </div>
+    
+    <div class="temperature-description">Its cold out side</div>
+</div>
+    
+<script src="app.js"></script>
+</body>
+    
+
+
+</html>
+    
+    
+
+    <h2 id="city">PROVIDENCE</h2>
+<div class="middle">
+    <img src="" alt="icon" id="icon">
+<div class="degrees">
+    <h1 id="temp">79</h1>
+        <span>&#176;</span>
+    <h3 id="desc">Sunny & Warm</h3>
+        </div>
+    </div>
+</div>
+                   <!--max-width: 550px; -->
+                   <!--height: 100vh; -->
+                   <!--border: 1px solid black;-->
+                   <!--margin: 0 auto;-->
+                   <!--display: grid;-->
+                   <!--grid-template-rows: 20% 80%; -->
+                   <!--text-align: center;-->
+        
+
+	<h1 class="title">ANY TIME WEATHER</h1>
+          <p>/api/current?lon=:longitude&lat=:latitud</p>
+          <p>https://fcc-weather-api.glitch.me/</p>
+          <p>weather[0].icon</p>
+          <p>https://fcc-weather-api.glitch.me/api/current?lat=35&lon=139 </p>
+          
+          
+          <form id="search-books">
+            <input type="text" placeholder="Search for a city..." />
+          </form>
+	    	</div>
+	    </header>
+	    <div id="book-list">
+	    	<h2 class="title">THINGS TO DO</h2>
+	    	<ul>
+	    		<li>
+	    			<span class="name">I can see the weather in my current location.</span>
+	    			
+	    		</li>
+	    		<li>
+	    			<span class="name">I can see a different icon or background image (e.g. snowy mountain, hot desert) depending on the weather.</span>
+	    			
+	    		</li>
+	    		<li>
+	    			<span class="name">I can push a button to toggle between Fahrenheit and Celsius.</span>
+	    			
+	    		</li>
+	    		<li>
+	    			<span class="name">weather backgrounds</span>
+	    			
+	    		</li>
+	    	</ul>
+	    </div>
+	    <form id="add-book">
+	    	<input type="text" placeholder="Add a city..." />
+	    	<button>Add</button>
+	    </form>
+
+    </div>
+    
+<html>
+<body>
+
+<p>Click the button to get your coordinates.</p>
+
+<button onclick="getLocation()">Try It</button>
+
+<p id="demo"></p>
+
+<script async defer 
+src="https://fcc-weather-api.glitch.me">
+    
+</script>
+
+<script>
+
+var x = document.getElementById("demo");
+
+function getLocation() {
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(showPosition);
+  } else { 
+    x.innerHTML = "Geolocation is not supported by this browser.";
+  }
+}
+
+function showPosition(position) {
+  x.innerHTML = "Latitude: " + position.coords.latitude + 
+  "<br>Longitude: " + position.coords.longitude;
+}
+
+</script>
+
+</body>
+</html>
+  </body>
+</html>
+
+
