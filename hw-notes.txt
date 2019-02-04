@@ -1,0 +1,36 @@
+Build A Weather App With Vanilla Javascript Tutorial | Javascript For Beginners
+18:47 DEV ED
+https://www.youtube.com/watch?v=wPElVpR1rwA
+WEATHER API - DEV ED
+
+https://www.youtube.com/watch?v=E3tTzx0Qoj0&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp&index=14
+3:18 NODE.JS
+
+COMPLETE REST API FIRST, AJAX, JQWERY, WEATHER API
+
+Holiday Break Homework (Node, Mongo, Express, jQuery and API's
+    Arnell Milhouse -Dec 20, 2018 (Edited Dec 20, 2018)
+
+1. Net Ninja: Node JS Tutorial for Beginners
+    https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
+    Videos 1 - 10
+    Create a git repo and branches and push daily
+        >> Add the link to your github repo to this homework assignment when you are finished
+
+3. REST API Tutorial #1
+    https://www.youtube.com/watch?v=BRdcRFvuqsE&list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8
+    Complete Course
+        >> Updated this homework assignment with the link to your repo to this homework assignment when you are finished
+
+4. Final Project - Hotel JS Upgrade
+    Add new features, techniques and concepts from what you have learned to your hotel js project.
+    Create your new project in ~/workspace/javascript101/hotelversion2
+        >> Updated this homework assignment with the link to your repo to this homework assignment when you are finished
+
+2. edX - Introduction to NodeJS, Express and MongoDB
+    https://www.edx.org/course/introduction-to-nodejs-4
+    Complete Course
+    Add the link to your repo to this homework assignment
+        >> Updated this homework assignment with the link to your repo to this homework assignment when you are finished
+
+
